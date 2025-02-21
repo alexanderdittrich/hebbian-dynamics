@@ -1,0 +1,8 @@
+evosax
+tqdm
+jax
+flax
+matplotlib
+numpy
+hydra-core
+scienceplots
